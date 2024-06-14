@@ -13,12 +13,20 @@ public class wt {
         }
 
         // wave traversal
-        for(int i=0;i<rows;i++){
+        for(int i=0;i<cols;i++){
             if(i%2==0){
                 // move upto down with increment of one column
-                
+                for(int j=0;j<rows;j++){
+                    System.out.print(arr[j][i]+" ");
+                }
+                System.out.println();
+
             }else{
                 // move down to up with incremment of one clumn
+                for(int j=rows-1;j>=0;j--){
+                    System.out.print(arr[j][i]+" ");
+                }
+                System.out.println();
             }
         }
     }
