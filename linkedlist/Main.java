@@ -229,7 +229,7 @@ public static void main(String[] args){
         l.display();
 
         System.out.println("here we can reverse the linked list using pointer itertitive");
-        // l.reverseusingPointerItertive();
+        l.reverseusingPointerItertive();
         l.display();
 
         System.out.println("add a node at an index");
