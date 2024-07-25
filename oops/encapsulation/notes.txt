@@ -1,0 +1,17 @@
+encapsulation in java is wraping code and data together in a single files;
+the data in a class can be hidden from another class so it also known as data hidding;
+
+main importance is-
+1- hides the data
+2- data is not accessble from other class aur acceble ho toh restricted form mae
+
+how we can acheive encapsulation
+1-> declare the variable of the class be private
+2-> implement the getter and settter methods to read and write the variables
+
+
+4 types of access modifiers
+1- private -> within the class
+2- default -> access only within the package (in this case our package is oops)
+3- protected ->access within and outside the package through making child class
+4- puclic ->access to anyOne
