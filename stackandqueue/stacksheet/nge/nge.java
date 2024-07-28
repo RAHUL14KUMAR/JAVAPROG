@@ -1,3 +1,4 @@
+package stack.stacksheet.nge;
 import java.util.*;
 public class nge {
     public static void main(String[] args){

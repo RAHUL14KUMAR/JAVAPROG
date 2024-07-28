@@ -1,3 +1,4 @@
+package stack.stacksheet.nse;
 import java.util.*;
 public class nse {
     public static void main(String args[]){
