@@ -1,4 +1,3 @@
-// package oops.encapsulation.first;
 import oops.encapsulation.first.Student;
 public class Main {
     public static void main(String[] args) {
