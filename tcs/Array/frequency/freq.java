@@ -1,3 +1,4 @@
+package tcs.Array.frequency;
 import java.util.*;
 public class freq {
     public static void main(String[] args) {

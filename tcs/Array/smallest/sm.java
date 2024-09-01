@@ -1,3 +1,4 @@
+package tcs.Array.smallest;
 import java.util.*;
 
 public class sm {

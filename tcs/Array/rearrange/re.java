@@ -1,3 +1,4 @@
+package tcs.Array.rearrange;
 
 import java.util.Arrays;
 public class re {

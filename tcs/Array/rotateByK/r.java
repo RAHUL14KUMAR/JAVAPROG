@@ -1,3 +1,4 @@
+package tcs.Array.rotateByK;
 public class r {
     public static void main(String args[]){
         int a[]={1,2,3,4,5};
