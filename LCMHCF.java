@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaExample{
+public class LCMHCF{
    public static void main(String args[]){
       int temp1, temp2, num1, num2, temp, hcf, lcm;
       Scanner scanner = new Scanner(System.in);

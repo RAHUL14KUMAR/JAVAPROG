@@ -6,8 +6,12 @@ class Human{
         this.age=age;
         this.name=name;
     }
-    public int getAge(){
-        return age;
+    public int[] getAge(){
+        int a[]=new int[2];
+        a[0]=age;
+        a[1]=name.length();
+
+        return a;
     }
     public String getName(){
         return name;

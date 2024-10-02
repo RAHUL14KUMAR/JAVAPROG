@@ -9,9 +9,6 @@ public class freq {
         int n=5;
 
         int a[]= {10,5,10,15,10,5};
-        // for(int i=0;i<n;i++){
-        //     a[i]=sc.nextInt();
-        // }
 
         for(int i=0;i<n;i++){
             if(hmap.containsKey(a[i])){
